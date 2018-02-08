@@ -1,7 +1,10 @@
 # Telegram-Seen-Hack
-1-add link address
+1-download tor browser 
+link ==> https://github.com/TheTorProject/gettorbrowser/releases/download/v7.5/tor-browser-linux64-7.5_fa.tar.xz
+2-chmod +x SeenHack.sh
+3-add link address
 example ==> chanellname/number
-2-select reboot time script!
-3-start script
-########################################
+4-select reboot time script!
+5-start script
+------------------------------------------------------
 https://T.Me/Aloneboy_N
